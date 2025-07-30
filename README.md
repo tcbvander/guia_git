@@ -88,4 +88,3 @@ git stash pop       # Recuperar alterações do stash
 
 ---
 
-**🎉 Pronto para versionar seu projeto!** 🚀
